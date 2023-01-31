@@ -75,6 +75,7 @@ body {
   clip-path: inset(50%);
   margin: -1px;
 }
+
 .container {
   width: 100%;
   padding-left: 16px;
@@ -268,6 +269,10 @@ body {
     width: 24px;
     height: 24px;
   }
+}
+ .use-mobile-menu-icon{
+width: 32px;
+height: 22px;
 }
 .main-nav {
   display: flex;
